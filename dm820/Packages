@@ -117,9 +117,9 @@ Version: 3.0.14-r89
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 28cedf585ba7cfc748c96bb71f8e3eec
-SHA256sum: 758106efadd70696346564d85fdc6d6135633c69c06ce9e198f0601409830e82
-Size: 744
+MD5Sum: 2f584456a49c609466b42758e3b908c2
+SHA256sum: eb8c442ca0fda530911366e85f291903118d21f53d3b13ad9fc332fe89a667c7
+Size: 742
 Filename: base-files-dbg_3.0.14-r89_dm820.ipk
 Source: base-files_3.0.14.bb
 Description: Miscellaneous files for the base system - Debugging files
@@ -133,9 +133,9 @@ Depends: base-files (= 3.0.14-r89)
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cca1e355445af91957f2e78df127335a
-SHA256sum: 55fd2ab88ae0f5100638422af3bbc9f5c0d7c76b0d3d4ca5901071a1d3f3b4c8
-Size: 774
+MD5Sum: 246ac20815de336d17f1c8d4e8dcd064
+SHA256sum: 0fd8b29b778c84a866a9d49cec7f5ad4e32b333ab038b26aa62202a021b08749
+Size: 772
 Filename: base-files-dev_3.0.14-r89_dm820.ipk
 Source: base-files_3.0.14.bb
 Description: Miscellaneous files for the base system - Development files
@@ -148,9 +148,9 @@ Version: 3.0.14-r89
 Section: doc
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: bfc59e3fc1bafad29cdb7e5690a61142
-SHA256sum: b8411b92d13039a78cd59b4fac42757484b128d738210158145d32337d298b67
-Size: 860
+MD5Sum: 6d57020c6b86d49d415533a3053181f0
+SHA256sum: 927e2eea853f5bd3bc1f249fc1c385c9c65cb97f906b407781d0712009f9ac9a
+Size: 856
 Filename: base-files-doc_3.0.14-r89_dm820.ipk
 Source: base-files_3.0.14.bb
 Description: Miscellaneous files for the base system - Documentation files
@@ -163,9 +163,9 @@ Version: 3.0.14-r89
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: f2e4b7334b81edbf813dcf52c2f8192f
-SHA256sum: 821a9f149d90a8d8301122cd467e4fb3261cdda3dddb03ba9d2531ffde86301d
-Size: 3590
+MD5Sum: 45d1c23d32bec59e12500e464c4f8ddd
+SHA256sum: 808c3462544e5befd135fc1492889783ca0a16337f4eac6168562dfc6a81f30a
+Size: 3584
 Filename: base-files_3.0.14-r89_dm820.ipk
 Source: base-files_3.0.14.bb
 Description: Miscellaneous files for the base system
@@ -246,9 +246,9 @@ Version: 1.0-r6
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: cc9543afa221b217348d151395fc7d91
-SHA256sum: 0dde03292cddedecb8ca214da5f9b01a9c902996da6c7dd30c167fa3b515296f
-Size: 690
+MD5Sum: 7207c95232871fefd26b4b67bfa9701b
+SHA256sum: 503637f1aa547963bc1c8c207ee4d7e29c9208c2f48c4b4a6ae69ce4700df6f5
+Size: 688
 Filename: distro-feed-configs-dbg_1.0-r6_dm820.ipk
 Source: distro-feed-configs.bb
 Description: Configuration files for online package repositories aka feeds - Debugging files
@@ -262,9 +262,9 @@ Depends: distro-feed-configs (= 1.0-r6)
 Section: devel
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: d7b8e64aa843d87f77c4f1dca80bcbb4
-SHA256sum: 20712e374dea5bddcd30d12fbaea3d7146614b380d089ee35be8f9d500153dc0
-Size: 722
+MD5Sum: e10793064e0ea1e4abfb87ca309f976f
+SHA256sum: 461e83a98f65f792c2597969941342acfd96f21a976ca8cfaf1c8ad7d0afc3a4
+Size: 720
 Filename: distro-feed-configs-dev_1.0-r6_dm820.ipk
 Source: distro-feed-configs.bb
 Description: Configuration files for online package repositories aka feeds - Development files
@@ -277,9 +277,9 @@ Version: 1.0-r6
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: 43bfee67848d04b629258ed74ee3eb67
-SHA256sum: ed9dc1d27af013e887ce8cee4af3459769cc61176ae171ffc994b822711be15f
-Size: 902
+MD5Sum: a15920e0cfec7ee1107e046b8405894d
+SHA256sum: c60407e236a66c6696e302126cc5ba5c27f75f54ec3bac54c85f13576ab89ea4
+Size: 918
 Filename: distro-feed-configs_1.0-r6_dm820.ipk
 Source: distro-feed-configs.bb
 Description: Configuration files for online package repositories aka feeds
@@ -356,9 +356,9 @@ Version: 1.1-r0
 Section: base
 Architecture: dm820
 Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
-MD5Sum: dfe982e4209d2265de24a54ff29e1c81
-SHA256sum: 37eaebb107030c217a5e8321b7522e5889b395042cd78dcf149d1507fa4e35e6
-Size: 616
+MD5Sum: 2eaddc6d72a99d0382a79a066666b0e4
+SHA256sum: d19ceda116e126296e1a4799c5bcc9309b8657f54520fe61ad8334c84a7e26f1
+Size: 618
 Filename: dvb-usb-drivers-meta_1.1-r0_dm820.ipk
 Source: dvb-usb-drivers-meta.bb
 Description: dvb-usb-drivers-meta version 1.1-r0
@@ -461,6 +461,22 @@ OE: enigma2-plugin-drivers-dvb-usb-af9015
 License: GPLv2+
 Priority: optional
 
+Package: enigma2-plugin-drivers-dvb-usb-as102
+Version: 1.1-r0
+Recommends: firmware-as102-data1-st, firmware-as102-data2-st, kernel-module-as102-fe, kernel-module-dvb-as102
+Section: base
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: f4811540db6c2cbcd59123b563540f66
+SHA256sum: 3b24338a576d0986ed65504fcf1c67e30b1af646ed1bbb16036cb668cb8a5d2a
+Size: 682
+Filename: enigma2-plugin-drivers-dvb-usb-as102_1.1-r0_dm820.ipk
+Source: enigma2-plugin-drivers-dvb-usb-as102.bb
+Description: enigma2-plugin-drivers-dvb-usb-as102 version 1.1-r0
+OE: enigma2-plugin-drivers-dvb-usb-as102
+License: GPLv2+
+Priority: optional
+
 Package: enigma2-plugin-drivers-dvb-usb-dib0700
 Version: 1.1-r0
 Recommends: firmware-dvb-usb-dib0700-1.20, firmware-dvb-usb-dibusb-5.0.0.11, firmware-dvb-usb-dibusb-6.0.0.8, firmware-dvb-usb-dibusb-an2235-01, firmware-xc3028-v27, firmware-xc3028l-v36, kernel-module-dib0070, kernel-module-dib0090, kernel-module-dib3000mb, kernel-module-dib3000mc, kernel-module-dib7000m, kernel-module-dib7000p, kernel-module-dib8000, kernel-module-dibx000-common, kernel-module-dvb-usb, kernel-module-dvb-usb-dib0700, kernel-module-dvb-usb-dibusb-common, kernel-module-dvb-usb-dibusb-mc, kernel-module-fc0013, kernel-module-mt2060, kernel-module-mt2266, kernel-module-tuner-xc2028
@@ -506,6 +522,54 @@ Filename: enigma2-plugin-drivers-dvb-usb-dw2102_1.1-r0_dm820.ipk
 Source: enigma2-plugin-drivers-dvb-usb-dw2102.bb
 Description: enigma2-plugin-drivers-dvb-usb-dw2102 version 1.1-r0
 OE: enigma2-plugin-drivers-dvb-usb-dw2102
+License: GPLv2+
+Priority: optional
+
+Package: enigma2-plugin-drivers-dvb-usb-it913x
+Version: 1.2-r0
+Recommends: firmware-dvb-usb-af9035-01, firmware-dvb-usb-af9035-02, firmware-dvb-usb-it913x, kernel-module-af9033, kernel-module-dvb-usb-af9035, kernel-module-dvb-usb-it913x, kernel-module-it913x, kernel-module-it913x-fe
+Section: base
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: ac97fbbd0a887539cdd03b5e0ca13e00
+SHA256sum: 07a205655bb7aceb75ae3deefa6e9634129114872aef2f85acb71e1f751f1405
+Size: 698
+Filename: enigma2-plugin-drivers-dvb-usb-it913x_1.2-r0_dm820.ipk
+Source: enigma2-plugin-drivers-dvb-usb-it913x.bb
+Description: enigma2-plugin-drivers-dvb-usb-it913x version 1.2-r0
+OE: enigma2-plugin-drivers-dvb-usb-it913x
+License: GPLv2+
+Priority: optional
+
+Package: enigma2-plugin-drivers-dvb-usb-pctv452e
+Version: 1.1-r0
+Recommends: kernel-module-dvb-usb-pctv452e
+Section: base
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 40bf218c819a349197d51e45e534ac5c
+SHA256sum: 089275a4e6af993f8b8e43750092610893583f93a82bb88e5ab64f83743f0dc5
+Size: 658
+Filename: enigma2-plugin-drivers-dvb-usb-pctv452e_1.1-r0_dm820.ipk
+Source: enigma2-plugin-drivers-dvb-usb-pctv452e.bb
+Description: enigma2-plugin-drivers-dvb-usb-pctv452e version 1.1-r0
+OE: enigma2-plugin-drivers-dvb-usb-pctv452e
+License: GPLv2+
+Priority: optional
+
+Package: enigma2-plugin-drivers-dvb-usb-rtl2832
+Version: 1.1-r0
+Recommends: firmware-dvb-demod-mn88473-01, firmware-dvb-usb-af9015, firmware-dvb-usb-af9035-01, firmware-dvb-usb-af9035-02, kernel-module-dvb-usb-rtl2832, kernel-module-dvb-usb-rtl28xxu, kernel-module-e4000, kernel-module-fc0012, kernel-module-fc0013, kernel-module-mt2266, kernel-module-r820t, kernel-module-rtl2832
+Section: base
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 08db2ce0e3f689c901b7872387cf2ea4
+SHA256sum: 61910d06dbaaef401a82fa609707738793badf64ec1dea37f1e7c838304e3c09
+Size: 738
+Filename: enigma2-plugin-drivers-dvb-usb-rtl2832_1.1-r0_dm820.ipk
+Source: enigma2-plugin-drivers-dvb-usb-rtl2832.bb
+Description: USB DVB driver for Realtek RTL2832 chipset
+OE: enigma2-plugin-drivers-dvb-usb-rtl2832
 License: GPLv2+
 Priority: optional
 
@@ -2261,6 +2325,93 @@ OE: linux-dreambox
 License: GPLv2
 Priority: optional
 
+Package: kernel-module-8188eu-3.4-4.0-dm820
+Version: 1.0-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-8188eu
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d4fed52ba57771f1d9911c9fac8b6ce3
+SHA256sum: b865908c41161aa93143d0887812288804b541de43d6eb230ed050c3113528da
+Size: 279472
+Filename: kernel-module-8188eu-3.4-4.0-dm820_1.0-r0_dm820.ipk
+Source: kernel-module-rt8188eu_1.0.bb
+Description: 8188eu kernel module
+OE: kernel-module-rt8188eu
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8189es-3.4-4.0-dm820
+Version: 1.0-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-8189es
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e9a3bc648f0c9cc0c40a30472039cc43
+SHA256sum: 20e745c30a34fa6a9eb2b4584f951750baf09729c7a0017d3c308556b610a11e
+Size: 381890
+Filename: kernel-module-8189es-3.4-4.0-dm820_1.0-r0_dm820.ipk
+Source: kernel-module-8189es_1.0.bb
+Description: 8189es kernel module
+OE: kernel-module-8189es
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8189es-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d3900470c74f497fd15e15f447008a79
+SHA256sum: 00579f6968082693fec31f1806a69e0b79e5cd0c408570bfaa9546341aa945d6
+Size: 702
+Filename: kernel-module-8189es-dbg_1.0-r0_dm820.ipk
+Source: kernel-module-8189es_1.0.bb
+Description: Ralink 8189es v1.0 - Debugging files
+OE: kernel-module-8189es
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8189es-dev
+Version: 1.0-r0
+Depends: kernel-module-8189es (= 1.0-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-8189es-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a0ba5be3a8e3f335aead6e4b2c312a08
+SHA256sum: 14ce0ab7fad1806d5a8b280c5678a5b50b491f8267b9de2c00ccb602e570b939
+Size: 754
+Filename: kernel-module-8189es-dev_1.0-r0_dm820.ipk
+Source: kernel-module-8189es_1.0.bb
+Description: Ralink 8189es v1.0 - Development files
+OE: kernel-module-8189es
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8189es
+Version: 1.0-r0
+Depends: kernel-module-8189es-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cc0a6c35e165adbd75fa3b4c4d98fcfa
+SHA256sum: aac7af53a8320969b5eb6e5f8eb00c8a370001525a4ace2e9a88188252d7c330
+Size: 654
+Filename: kernel-module-8189es_1.0-r0_dm820.ipk
+Source: kernel-module-8189es_1.0.bb
+Description: Ralink 8189es v1.0
+OE: kernel-module-8189es
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
 Package: kernel-module-8192eu-3.4-4.0-dm820
 Version: 1.0-r0
 Depends: kernel-3.4-4.0-dm820
@@ -2328,6 +2479,144 @@ Source: kernel-module-8192eu.bb
 Description: Driver for Realtek USB wireless device 8192eu
 OE: kernel-module-8192eu
 HomePage: http://www.realtek.com/
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8723a-dbg
+Version: 4.1.6-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a2a9522e2db4c7bde2c4e94b14767343
+SHA256sum: 6d574d78bf2cf098b69c9aaf7794184f9c2701746227cc7c476ebc6f557513b8
+Size: 704
+Filename: kernel-module-8723a-dbg_4.1.6-r0_dm820.ipk
+Source: kernel-module-8723a_4.1.6.bb
+Description: Realtek 8723A v1.0 - Debugging files
+OE: kernel-module-8723a
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8723a-dev
+Version: 4.1.6-r0
+Depends: kernel-module-8723a (= 4.1.6-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-8723au-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2fa9a75ec54ae5de08deec71dc8699b4
+SHA256sum: cbeae3eb78764096b9a58c9fbd087e70a68e6bf3e0a7d4462d51e7e5c228388b
+Size: 756
+Filename: kernel-module-8723a-dev_4.1.6-r0_dm820.ipk
+Source: kernel-module-8723a_4.1.6.bb
+Description: Realtek 8723A v1.0 - Development files
+OE: kernel-module-8723a
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8723a
+Version: 4.1.6-r0
+Depends: kernel-module-8723au-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 8c9328fd6c05d959b55352a7deff62a3
+SHA256sum: 612ac06c2a67c1dcc961d1e15074c304c61edc6b332ccc0625aa36716fb02ad1
+Size: 656
+Filename: kernel-module-8723a_4.1.6-r0_dm820.ipk
+Source: kernel-module-8723a_4.1.6.bb
+Description: Realtek 8723A v1.0
+OE: kernel-module-8723a
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8723au-3.4-4.0-dm820
+Version: 4.1.6-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-8723au
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: aef7d0e85a4d3d5c680dc6f43a4db419
+SHA256sum: 5f86f0d4901d8990f0d1b2445db00fe894b28415756f2e5b2cdaba608a981af1
+Size: 332812
+Filename: kernel-module-8723au-3.4-4.0-dm820_4.1.6-r0_dm820.ipk
+Source: kernel-module-8723a_4.1.6.bb
+Description: 8723au kernel module
+OE: kernel-module-8723a
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8814au-3.4-4.0-dm820
+Version: 4.3.21-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-8814au
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 84ab923558031e1cf2ea021372da81d9
+SHA256sum: 1c9cf2fb2d61a01d30feee7fc3b14ae31d5b182e2b4d69f53515f2eed865c750
+Size: 437168
+Filename: kernel-module-8814au-3.4-4.0-dm820_4.3.21-r0_dm820.ipk
+Source: kernel-module-8814au_4.3.21.bb
+Description: 8814au kernel module
+OE: kernel-module-8814au
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8814au-dbg
+Version: 4.3.21-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: b02b233463d94c21a783525fc50d263d
+SHA256sum: 9c5f0a2e9fb87b6d75be63c2a4fcef58ba9409f007eda02d711d932665e66257
+Size: 708
+Filename: kernel-module-8814au-dbg_4.3.21-r0_dm820.ipk
+Source: kernel-module-8814au_4.3.21.bb
+Description: Ralink 8814AU v4.3.21 - Debugging files
+OE: kernel-module-8814au
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8814au-dev
+Version: 4.3.21-r0
+Depends: kernel-module-8814au (= 4.3.21-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-8814au-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 59e45d2917eb9eedcf52ad2a84a25614
+SHA256sum: 503ad4990370524bda3491cce0c44aa687d48ba9f9d2167b17fdc645aee1a0dc
+Size: 758
+Filename: kernel-module-8814au-dev_4.3.21-r0_dm820.ipk
+Source: kernel-module-8814au_4.3.21.bb
+Description: Ralink 8814AU v4.3.21 - Development files
+OE: kernel-module-8814au
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-8814au
+Version: 4.3.21-r0
+Depends: kernel-module-8814au-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: e13afbdcaf62f4a32b18508d7ea63601
+SHA256sum: f63c77a697af1fc85f8405a90c1c56c0acb2d8208fa8484c113a9cc0b3a7d2ec
+Size: 658
+Filename: kernel-module-8814au_4.3.21-r0_dm820.ipk
+Source: kernel-module-8814au_4.3.21.bb
+Description: Ralink 8814AU v4.3.21
+OE: kernel-module-8814au
+HomePage: http://www.realtek.com.tw
 License: GPLv2
 Priority: optional
 
@@ -7484,6 +7773,144 @@ OE: linux-dreambox
 License: GPLv2
 Priority: optional
 
+Package: kernel-module-mt7601usta-3.4-4.0-dm820
+Version: 3.0.0.4-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-mt7601usta
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: bd0c083e82a2e80b9200c27912cee9d1
+SHA256sum: 6f68c7d752ece54d0bce8fd7e2540039601b11f6c498610cc077d7aa59f4a8a2
+Size: 349862
+Filename: kernel-module-mt7601usta-3.4-4.0-dm820_3.0.0.4-r0_dm820.ipk
+Source: kernel-module-mt7601usta_3.0.0.4.bb
+Description: mt7601usta kernel module
+OE: kernel-module-mt7601usta
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7601usta-dbg
+Version: 3.0.0.4-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4be1c1844e5cde27cc55b632bbdd4c91
+SHA256sum: c8e362e48d0710df30329aef963782c117596439bceeb5b3823eb43156407777
+Size: 698
+Filename: kernel-module-mt7601usta-dbg_3.0.0.4-r0_dm820.ipk
+Source: kernel-module-mt7601usta_3.0.0.4.bb
+Description: mediatek 7601 v3.0.0.4 - Debugging files
+OE: kernel-module-mt7601usta
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7601usta-dev
+Version: 3.0.0.4-r0
+Depends: kernel-module-mt7601usta (= 3.0.0.4-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-mt7601usta-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d26ce787f715ef3cb02a0a3ac08141a5
+SHA256sum: 5a1298cd901f031e43e4806dccd4d5c68ab09ded3c816a9f516424e93846c7d7
+Size: 752
+Filename: kernel-module-mt7601usta-dev_3.0.0.4-r0_dm820.ipk
+Source: kernel-module-mt7601usta_3.0.0.4.bb
+Description: mediatek 7601 v3.0.0.4 - Development files
+OE: kernel-module-mt7601usta
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7601usta
+Version: 3.0.0.4-r0
+Depends: kernel-module-mt7601usta-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: cd3c7a485a47a36d685c17cb8555115b
+SHA256sum: f6ccc5bf1f8a41ce9afdd7ca6f2d3d17cd18deaf893541be7f060ee99cff038b
+Size: 1644
+Filename: kernel-module-mt7601usta_3.0.0.4-r0_dm820.ipk
+Source: kernel-module-mt7601usta_3.0.0.4.bb
+Description: mediatek 7601 v3.0.0.4
+OE: kernel-module-mt7601usta
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7610u-dbg
+Version: 3.0.0.2-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 83a6c44cfce72f7021aa25ed39b96706
+SHA256sum: f7dee2178c9f5971d866c6ddbed10018dd7b2f044fcbaf14fc61a2448b9e2823
+Size: 734
+Filename: kernel-module-mt7610u-dbg_3.0.0.2-r0_dm820.ipk
+Source: kernel-module-mt7610u_3.0.0.2.bb
+Description: kernel-module-mt7610u version 3.0.0.2-r0 - Debugging files
+OE: kernel-module-mt7610u
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7610u-dev
+Version: 3.0.0.2-r0
+Depends: kernel-module-mt7610u (= 3.0.0.2-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-mt7650u-sta-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 81fc2aedc1e0c27794d6e9fb15234721
+SHA256sum: 0f9792e34ce19ab6437d6342263254e4565153a551780b02f5cce8d2fbaaf9d6
+Size: 794
+Filename: kernel-module-mt7610u-dev_3.0.0.2-r0_dm820.ipk
+Source: kernel-module-mt7610u_3.0.0.2.bb
+Description: kernel-module-mt7610u version 3.0.0.2-r0 - Development files
+OE: kernel-module-mt7610u
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7610u
+Version: 3.0.0.2-r0
+Depends: kernel-module-mt7650u-sta-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 2bab3ac204bf0fb869e81bffc29f0cf2
+SHA256sum: cc68511ad377b4977264686b296d6b84df95f0bc5c0b37fdcf3ba92126c6045c
+Size: 2076
+Filename: kernel-module-mt7610u_3.0.0.2-r0_dm820.ipk
+Source: kernel-module-mt7610u_3.0.0.2.bb
+Description: kernel-module-mt7610u version 3.0.0.2-r0
+OE: kernel-module-mt7610u
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-mt7650u-sta-3.4-4.0-dm820
+Version: 3.0.0.2-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-mt7650u-sta
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 967352ab4d1df8a59972e3ebd1695e89
+SHA256sum: 6ee09f6b403ee870d704f996a97dae880a63fdd40af6479303a43df1280602da
+Size: 376764
+Filename: kernel-module-mt7650u-sta-3.4-4.0-dm820_3.0.0.2-r0_dm820.ipk
+Source: kernel-module-mt7610u_3.0.0.2.bb
+Description: mt7650u-sta kernel module
+OE: kernel-module-mt7610u
+HomePage: www.mediatek.com
+License: GPLv2
+Priority: optional
+
 Package: kernel-module-mt9v011-3.4-4.0-dm820
 Version: 3.4-r14
 Depends: kernel-3.4-4.0-dm820, kernel-module-v4l2-common-3.4-4.0-dm820, kernel-module-videodev-3.4-4.0-dm820
@@ -9456,6 +9883,75 @@ OE: linux-dreambox
 License: GPLv2
 Priority: optional
 
+Package: kernel-module-r8723bs-3.4-4.0-dm820
+Version: 4.4.1-3.4-r0
+Depends: kernel-3.4-4.0-dm820
+Provides: kernel-module-r8723bs
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 4f148fbb28ab8ec4b8d52f512854a4ca
+SHA256sum: 3c42cba7cc3da3da66fd5866265c328a0a246ccf8b0f6876d8c266cabb4461b2
+Size: 446416
+Filename: kernel-module-r8723bs-3.4-4.0-dm820_4.4.1-3.4-r0_dm820.ipk
+Source: kernel-module-r8723bs_4.4.1.bb
+Description: r8723bs kernel module
+OE: kernel-module-r8723bs
+HomePage: http://www.realtek.com/
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-r8723bs-dbg
+Version: 4.4.1-3.4-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 61b9a375174ddb8a07dd4e0c8ecf1d8d
+SHA256sum: fbc2d4d5f34673103cc9cbb2a4ae75509bf3fbec4e2b814ba884a61a4e7c8f05
+Size: 728
+Filename: kernel-module-r8723bs-dbg_4.4.1-3.4-r0_dm820.ipk
+Source: kernel-module-r8723bs_4.4.1.bb
+Description: Driver for Realtek 8723BS wireless/bluetooth devices - Debugging files
+OE: kernel-module-r8723bs
+HomePage: http://www.realtek.com/
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-r8723bs-dev
+Version: 4.4.1-3.4-r0
+Depends: kernel-module-r8723bs (= 4.4.1-3.4-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-r8723bs-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 000a2f3e0fe7c10a65491b204bbaa65e
+SHA256sum: 32cfe18f7eae093ae998e05aeae8701556728f99ca54dbf6241a765f53101ec6
+Size: 784
+Filename: kernel-module-r8723bs-dev_4.4.1-3.4-r0_dm820.ipk
+Source: kernel-module-r8723bs_4.4.1.bb
+Description: Driver for Realtek 8723BS wireless/bluetooth devices - Development files
+OE: kernel-module-r8723bs
+HomePage: http://www.realtek.com/
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-r8723bs
+Version: 4.4.1-3.4-r0
+Depends: kernel-module-r8723bs-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 0437bca84e64dabbb511ce4d6988def8
+SHA256sum: be3275075c9028bc4a880092420e8c4115dc0bffd7ff185d8ff942a0310b0028
+Size: 684
+Filename: kernel-module-r8723bs_4.4.1-3.4-r0_dm820.ipk
+Source: kernel-module-r8723bs_4.4.1.bb
+Description: Driver for Realtek 8723BS wireless/bluetooth devices
+OE: kernel-module-r8723bs
+HomePage: http://www.realtek.com/
+License: GPLv2
+Priority: optional
+
 Package: kernel-module-ramoops-3.4-4.0-dm820
 Version: 3.4-r14
 Depends: kernel-3.4-4.0-dm820
@@ -11357,6 +11853,57 @@ Filename: kernel-module-rt73usb-3.4-4.0-dm820_3.4-r14_dm820.ipk
 Source: linux-dreambox_3.4.bb
 Description: rt73usb kernel module
 OE: linux-dreambox
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-rt8188eu-dbg
+Version: 1.0-r0
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: 9632c9e91e0d08931578d9ecff7d09d2
+SHA256sum: b499ee99f3bbaf3309e99542bfa051266f627987654e36cc5e2317b80aeeeb06
+Size: 704
+Filename: kernel-module-rt8188eu-dbg_1.0-r0_dm820.ipk
+Source: kernel-module-rt8188eu_1.0.bb
+Description: Ralink 8188EU v1.0 - Debugging files
+OE: kernel-module-rt8188eu
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-rt8188eu-dev
+Version: 1.0-r0
+Depends: kernel-module-rt8188eu (= 1.0-r0)
+Recommends: kernel-3.4-4.0-dm820-dev, kernel-module-8188eu-3.4-4.0-dm820-dev
+Section: devel
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: a4991e7420bb39db1294732bd23bd07a
+SHA256sum: f92bcea958d753b96eb860482c3f451831365f4809c91e015c46e0d05f2111e1
+Size: 756
+Filename: kernel-module-rt8188eu-dev_1.0-r0_dm820.ipk
+Source: kernel-module-rt8188eu_1.0.bb
+Description: Ralink 8188EU v1.0 - Development files
+OE: kernel-module-rt8188eu
+HomePage: http://www.realtek.com.tw
+License: GPLv2
+Priority: optional
+
+Package: kernel-module-rt8188eu
+Version: 1.0-r0
+Depends: kernel-module-8188eu-3.4-4.0-dm820
+Section: kernel/modules
+Architecture: dm820
+Maintainer: OE-Core Developers <openembedded-core@lists.openembedded.org>
+MD5Sum: d56716de2c5ca0a84825f8723742ac97
+SHA256sum: 7dd1a113ce15093acbdfde363738101f9e31aed8a7f558158f15b9f1885927a5
+Size: 658
+Filename: kernel-module-rt8188eu_1.0-r0_dm820.ipk
+Source: kernel-module-rt8188eu_1.0.bb
+Description: Ralink 8188EU v1.0
+OE: kernel-module-rt8188eu
+HomePage: http://www.realtek.com.tw
 License: GPLv2
 Priority: optional
 
